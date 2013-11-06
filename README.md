@@ -8,8 +8,11 @@ Source: http://www.noah.org/wiki/pexpect
 How to install?
 ==============
 ``wget / curl -o http://pexpect.sourceforge.net/pexpect-2.3.tar.gz``
+
 ``tar xzf pexpect-2.3.tar.gz``
+
 ``cd pexpect-2.3``
+
 ``sudo python ./setup.py install ``
  
  
